@@ -5,10 +5,10 @@
 
 # User Input for Financial Details
 monthly_income = int(input("Enter your monthly income:"))
-total_monthly_expenses = int(input("Enter your total monthly expenses:"))
+monthly_expenses = int(input("Enter your total monthly expenses:"))
 
 # Calculate Monthly Savings
-monthly_savings = monthly_income - total_monthly_expenses
+monthly_savings = monthly_income - monthly_expenses
 
 # Project Annual Savings
 annual_interest_rate = 0.05
