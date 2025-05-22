@@ -3,7 +3,7 @@
 
 # variables for the calculation of the interest
 principal = 1000
-rate = (0.05)
+rate = float(0.05)
 time = 3
 
 # Formular for calculating the interest is (I = P * R * T)
