@@ -1,3 +1,4 @@
+  GNU nano 8.5                                       weather_advice.py
 #!/usr/bin/env python3
 """weather_advice.py
 Ask the user about today's weather and print clothing recommendations.
