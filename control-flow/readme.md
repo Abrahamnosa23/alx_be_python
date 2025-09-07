@@ -1,12 +1,5 @@
 🌤️ Weather Advice Program
 
-
-
-
-
-
-
-
 📌 Overview
 
 This project is part of Week 4 – Control Flow in the ALX Backend Web Development with Python program.
